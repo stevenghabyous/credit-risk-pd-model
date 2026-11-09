@@ -2,6 +2,8 @@
 
 **Timeline:** May 2026 to August 2026
 
+Try the interactive approval-cutoff chart from this project on my [portfolio site](https://stevenghabyous.github.io/#credit-risk).
+
 An end-to-end probability of default (PD) model that predicts whether a borrower will become 90+ days delinquent within two years, built on 150,000 consumer loan records. The project compares an interpretable logistic regression benchmark with an XGBoost challenger, then turns model scores into a credit acceptance strategy.
 
 ## Highlights
@@ -35,3 +37,7 @@ Revolving utilization and past delinquency were the strongest risk drivers in bo
 ## Tools
 
 Python, pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn
+
+---
+
+**Steven Ghabyous** | [Portfolio](https://stevenghabyous.github.io) | [GitHub](https://github.com/stevenghabyous) | [LinkedIn](https://linkedin.com/in/steven-ghabyous) | [Email](mailto:steven.ghabyous2005@gmail.com)

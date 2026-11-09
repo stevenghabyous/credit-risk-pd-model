@@ -1,5 +1,7 @@
 # Credit Risk: Probability of Default Model
 
+**Timeline:** May 2026 to August 2026
+
 An end-to-end probability of default (PD) model that predicts whether a borrower will become 90+ days delinquent within two years, built on 150,000 consumer loan records. The project compares an interpretable logistic regression benchmark with an XGBoost challenger, then turns model scores into a credit acceptance strategy.
 
 ## Highlights
